@@ -8,7 +8,7 @@ A fast-paced, arcade-style racing game built in Python where you dodge oncoming 
 
 F1 Race Road puts you behind the wheel on a busy racetrack full of rival F1 cars. Your only job: survive as long as possible by dodging traffic that comes at you in increasingly unpredictable patterns.
 
-It's more than just a reflex game — as obstacles multiply and speed increases, you're forced to:
+It's more than just a reflex game - as obstacles multiply and speed increases, you're forced to:
 
 
 Anticipate where the next car will appear before it's fully on screen
@@ -17,7 +17,7 @@ React quickly under pressure without panicking
 Plan your lane changes a few moves ahead instead of just reacting to what's directly in front of you
 
 
-This blend of quick reflexes and forward-thinking decision-making makes it a fun way to train focus, hand-eye coordination, and quick pattern recognition — all while enjoying some high-speed F1 action.
+This blend of quick reflexes and forward-thinking decision-making makes it a fun way to train focus, hand-eye coordination, and quick pattern recognition - all while enjoying some high-speed F1 action.
 
 🕹️ Features
 
@@ -25,7 +25,7 @@ This blend of quick reflexes and forward-thinking decision-making makes it a fun
 Smooth car movement across multiple lanes
 Randomly generated traffic patterns that increase in difficulty over time
 Score tracking based on survival time / distance
-Simple, lightweight, and easy to run — no heavy dependencies
+Simple, lightweight, and easy to run - no heavy dependencies
 
 
 🛠️ Requirements
@@ -77,7 +77,7 @@ Run the game:
 
 🏁 Objective
 
-Dodge as many F1 cars as you can without crashing. The longer you survive, the higher your score — and the sharper your reaction time and forward-thinking get!
+Dodge as many F1 cars as you can without crashing. The longer you survive, the higher your score - and the sharper your reaction time and forward-thinking get!
 
 🤝 Contributing
 
